@@ -51,6 +51,7 @@ const AppContent = () => {
       </View>
     );
   }
+  
 
   return (<>
   <StatusBar backgroundColor="#2b6c45" barStyle="light-content" />
